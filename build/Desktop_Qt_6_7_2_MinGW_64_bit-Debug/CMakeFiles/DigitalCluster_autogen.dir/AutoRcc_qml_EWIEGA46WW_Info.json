@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster",
+	"CMAKE_SOURCE_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/main.qml",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/GaugeItem.qml",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/images/gauge_images/gauge_needle.png",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/images/gauge_images/gauge_background.png",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/images/gauge_images/gauge_blue_circle.png",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/images/gauge_images/gauge_inside.png",
+		"C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/images/gauge_images/gauge_white_circle.png"
+	],
+	"LOCK_FILE" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/qml.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

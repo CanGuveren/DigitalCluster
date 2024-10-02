@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/gauge_images/gauge_background.png</file>
+        <file>images/gauge_images/gauge_blue_circle.png</file>
+        <file>images/gauge_images/gauge_needle.png</file>
+        <file>images/gauge_images/gauge_white_circle.png</file>
+        <file>GaugeItem.qml</file>
+        <file>images/gauge_images/gauge_inside.png</file>
+    </qresource>
+</RCC>

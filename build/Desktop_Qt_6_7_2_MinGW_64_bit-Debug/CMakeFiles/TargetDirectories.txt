@@ -1,0 +1,10 @@
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster_qmlimportscan.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster_autogen_timestamp_deps.dir
+C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/DigitalCluster_autogen.dir

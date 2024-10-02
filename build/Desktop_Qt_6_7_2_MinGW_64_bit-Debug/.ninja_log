@@ -1,0 +1,27 @@
+# ninja log v5
+11	53	7483878391461775	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qt/qml_imports/DigitalCluster_build.cmake	7123b1aaa0759132
+356	1341	7495929111925344	CMakeFiles/DigitalCluster.dir/Speedometer/speedometer.cpp.obj	346b36b183ec44b9
+21	60	7495137139736477	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/EWIEGA46WW/qrc_qml.cpp	675ca6e53cafd283
+375	1404	7495123124308692	CMakeFiles/DigitalCluster.dir/main.cpp.obj	33db4b348176868e
+113	930	7495123295036260	CMakeFiles/DigitalCluster.dir/powergauge.cpp.obj	f358e8b10a370b60
+1343	1584	7495929114332062	DigitalCluster.exe	d50fa5ef458a43ff
+20	354	7495929101626703	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+20	354	7495929101626703	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+61	406	7495137143207278	CMakeFiles/DigitalCluster.dir/DigitalCluster_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c4318cc10b91477f
+20	354	7495929101626703	DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+354	1343	7495929111955352	CMakeFiles/DigitalCluster.dir/DigitalCluster_autogen/mocs_compilation.cpp.obj	3821c9442ddadd0e
+20	354	7495929101626703	DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+11	53	7483878391461775	.qt/qml_imports/DigitalCluster_build.cmake	7123b1aaa0759132
+21	60	7495137139736477	DigitalCluster_autogen/EWIEGA46WW/qrc_qml.cpp	675ca6e53cafd283
+20	351	7495930133869148	DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+20	351	7495930133869148	DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+20	351	7495930133869148	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+20	351	7495930133869148	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+351	1192	7495930142711186	CMakeFiles/DigitalCluster.dir/DigitalCluster_autogen/mocs_compilation.cpp.obj	3821c9442ddadd0e
+355	1192	7495930142711186	CMakeFiles/DigitalCluster.dir/PowerGauge/powergauge.cpp.obj	729e37d980826a54
+20	107	7495930254639860	DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+20	107	7495930254639860	DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+20	107	7495930254639860	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/timestamp	a4a612e18ff3b44a
+20	107	7495930254639860	C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/DigitalCluster_autogen/mocs_compilation.cpp	a4a612e18ff3b44a
+120	1152	7495930266512543	CMakeFiles/DigitalCluster.dir/main.cpp.obj	33db4b348176868e
+1152	1264	7495930267602791	DigitalCluster.exe	be17e247c15d3ffb

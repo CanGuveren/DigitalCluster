@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b38e255db4cb8a29291e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DigitalCluster",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitalCluster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitalCluster-Debug-f1ddb87fcafcd487bd09.json",
+					"name" : "DigitalCluster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitalCluster_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitalCluster_autogen-Debug-2f0f25ce77aa51d060f0.json",
+					"name" : "DigitalCluster_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitalCluster_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitalCluster_autogen_timestamp_deps-Debug-97d6c7d6610abc4de8ee.json",
+					"name" : "DigitalCluster_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DigitalCluster_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DigitalCluster_qmlimportscan-Debug-7c78d8c9a0155dca4fa2.json",
+					"name" : "DigitalCluster_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ENIX/Desktop/QML_WS/DigitalCluster"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
